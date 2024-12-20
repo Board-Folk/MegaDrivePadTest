@@ -33,3 +33,19 @@ Does not support the extra functionality of a 6-button pad.
 ## License
 
 Public domain.
+
+
+## Legal
+
+You are free to produce PCBs based on this project's designs at your own risk
+and without limitation, for your own use or for sale and/or repair at a
+reasonable price. Attribution is appreciated. The authors are not obliged to
+provide support of any kind.
+
+Under no circumstances will the authors be held responsible or liable in any
+way for losses, damages or costs resulting from the use of the information
+and/or resources of this project.
+
+The resources are provided "as-is" without warranty of any kind, either
+expressed or implied, including, but not limited to, the implied warranties
+of merchantability and fitness for a particular purpose.
