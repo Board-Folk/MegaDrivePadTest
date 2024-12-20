@@ -486,7 +486,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "mdpadtest-gerbers-jlc",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
